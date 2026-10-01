@@ -1,0 +1,16 @@
+class Calculator{
+     void m1(int a,int b)
+	 {
+	 System.out.println(a);
+	 }
+	 void m1(float a,float b)
+	 {
+	 System.out.println(a);
+	 }
+      class test{
+	  public static void main(String[]args){
+	  Aa=new A();
+	  a.m(10.3f,20.5f);
+	  }
+	  }
+}
